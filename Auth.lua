@@ -30,10 +30,10 @@ return
     "Banned_FalseForme",
     "DASDSADSFGBVOFDTWER163",
 
-    --Alec <9#1445
+    --Alec <9#1445 
+    --Re Buyed Account
 
-    "Banned_TrueForAlec",
-    "BANNED", 
-    "BanReason_TryLeakingScript", 
-
+    "Banned_FalseForAlec",
+    "SADYIEWR5E6BGFKJHGYRTQ2", 
+    
 }
