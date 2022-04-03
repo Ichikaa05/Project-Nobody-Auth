@@ -2,9 +2,7 @@
 
 return
 {
-
-    "Leaked_False",
-
+    
     --Fatee#5605
 
     "Banned_FalseForFate",
@@ -35,10 +33,5 @@ return
     "Banned_TrueForAlec",
     "BANNED", 
     "BanReason_TryLeakingScript", 
-
-    --NIGGA LIL BLCK#7984
-
-    "Banned_FalseForNigga", 
-    "DSAYTRUYIFGHHKUIOUIE123AS",
 
 }
