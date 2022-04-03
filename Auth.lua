@@ -1,4 +1,4 @@
-﻿--Simple DataBase
+--Simple DataBase
 
 return
 {
