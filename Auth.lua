@@ -12,9 +12,8 @@ return
 
     --SusNobody#4877
 
-    "Banned_TrueForNobody",
+    "Banned_FalseForNobody",
     "DSJHREQWDFSGFHYYIOIU129",
-    "BannedReason_LeakingScriptForNobody",
     
     --yourdailydoseofinternet#9491
 
