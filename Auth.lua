@@ -7,7 +7,7 @@ return
     
     --Fatee#5605
 
-    "Banned_TrueForFate",
+    "Banned_FalseForFate",
     "AISD9SAD8FHGU243ASDDYJG4",
 
     --SusNobody#4877
