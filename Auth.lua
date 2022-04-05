@@ -46,4 +46,9 @@ return
     
     "SADSA213ASDTGRETEREWASDSAR",
     "Banned_FalseForRaezn",
+    
+    --scoate briceagu pune cagula#9606
+
+    "DAOD12ODLAMNVASED123087",
+    "Banned_FalseForcagula",
 }
