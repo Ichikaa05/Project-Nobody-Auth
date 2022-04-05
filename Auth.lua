@@ -36,4 +36,8 @@ return
     "Banned_FalseForAlec",
     "SADYIEWR5E6BGFKJHGYRTQ2", 
     
+    --MP-40#2907
+    
+    "DSAYTRUYIFGHHKUIOUIE123AS",
+    "Banned_FalseForMP",
 }
