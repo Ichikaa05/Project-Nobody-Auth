@@ -51,4 +51,10 @@ return
 
     "DAOD12ODLAMNVASED123087",
     "Banned_FalseForcagula",
+    
+    --Miikey#2211
+    --Re Buyed Account
+    
+    "DASDMVBDFTOWE4436ASDSGA",
+    "Banned_FalseForMike",
 }
