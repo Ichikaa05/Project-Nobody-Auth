@@ -42,5 +42,8 @@ return
     "DSAYTRUYIFGHHKUIOUIE123AS",
     "Banned_FalseForMP",
     
+    --Rezn#2992
     
+    "SADSA213ASDTGRETEREWASDSAR",
+    "Banned_FalseForRaezn",
 }
