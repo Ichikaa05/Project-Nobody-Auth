@@ -57,4 +57,9 @@ return
     
     "DASDMVBDFTOWE4436ASDSGA",
     "Banned_FalseForMike",
+    
+    --LUCKY CAT#2937
+    
+    "LOSADH23MFEGUWQ342154DSFLKA",
+    "BannedFalseFor_Cat",
 }
