@@ -61,5 +61,5 @@ return
     --LUCKY CAT#2937
     
     "LOSADH23MFEGUWQ342154DSFLKA",
-    "BannedFalseFor_Cat",
+    "BannedTrueFor_Cat",
 }
